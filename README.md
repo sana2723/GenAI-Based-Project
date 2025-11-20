@@ -1,4 +1,4 @@
-**🤖 Project Spotlight: GenAI Smart QA Bot for Banking 🏦**
+** Project Spotlight: GenAI Smart QA Bot for Banking **
 
 **Overview & Goal**
 
